@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Derek
+
+- Computer Science and Engineering at Santa Clara University
+- Sales Development Representative at ProofJump
+- [Personal Website](derekchui.com)
 
 <!--
 **derek-chui/derek-chui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
