@@ -3,7 +3,7 @@
 - Computer Science and Engineering at Santa Clara University
 - Sales Development Representative at ProofJump
 
-## [Personal Website](derekchui.com)
+## derekchui.com
 
 ## Below are all my projects
 
