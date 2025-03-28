@@ -4,6 +4,8 @@
 - Sales Development Representative at ProofJump
 - [Personal Website](derekchui.com)
 
+## Below are all my projects
+
 <!--
 **derek-chui/derek-chui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
