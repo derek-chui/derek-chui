@@ -12,17 +12,6 @@
 
 ## Stats
 <kbd>
-<!--   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=derek-chui&custom_title=GitHub%20Statistics&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues&theme=github_dark&border_color=2F353D"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=derek-chui&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="..." height="175" />
-  </picture> -->
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=derek-chui&layout=compact&langs_count=6&theme=github_dark&border_color=2F353D"
