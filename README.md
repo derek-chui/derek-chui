@@ -1,6 +1,8 @@
 # Hi, I'm Derek
 
 - Computer Science and Engineering at Santa Clara University
+- [Personal Website](derekchui.com)  
+
 
 ## Projects
 - `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Generates random points, makes pairs with max total distance using MATLAB.  
