@@ -3,7 +3,7 @@
 - Computer Science and Engineering at Santa Clara University
 - Sales Development Representative at ProofJump
 
-[![LinkedIn](https://img.shields.io/badge/yourusername-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-chui/)
+[![LinkedIn](https://img.shields.io/badge/derek-chui-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-chui/)
 
 ## Projects
 `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Generates random points, makes pairs with max total distance using MATLAB.  
