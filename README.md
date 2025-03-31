@@ -1,7 +1,6 @@
 # Hi, I'm Derek
 
 - Computer Science and Engineering at Santa Clara University
-- Sales Development Representative at ProofJump
 
 ## Projects
 - `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Generates random points, makes pairs with max total distance using MATLAB.  
