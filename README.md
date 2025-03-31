@@ -37,11 +37,6 @@
   </picture>
 </kbd>
 
-## Experience
-- Sales Development Representative @ ProofJump
-- Training Specialist @ Honeywell
-- Freelance Video Editor
-
 <!--
 **derek-chui/derek-chui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
