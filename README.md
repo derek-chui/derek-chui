@@ -4,7 +4,7 @@
 - Research Assistant
 
 ## Projects
-- `🐺` [Football Analytics](https://github.com/derek-chui/Football-Analytics): Analytics on Wolves (EPL) with web scraping, data visualization and analysis with Python, Jupyter, Tableau.
+- `🐺` [Football Analytics](https://github.com/derek-chui/Football-Analytics): Analytics on Wolves (EPL) with web scraping, data visualization and analysis with Python, Jupyter.
 - `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Semantic Utility Driven User Pairing and Triplet Grouping for NOMA Networks.
 - `🖥️` [Personal Website](https://github.com/derek-chui/Personal-Website): Done with Netlify and Astro frameworks.  
 - `📊` [Benchmark](https://github.com/derek-chui/Benchmark): Learning the basics of different languages.
