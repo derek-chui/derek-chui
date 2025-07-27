@@ -4,7 +4,7 @@
 - Undergraduate Student Research Assistant
 
 ## Projects
-- `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Generates random points, makes pairs with max total distance using MATLAB.  
+- `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): IEEE CCNC 2026 submission: "Semantic Utility Driven User Pairing and Triplet Grouping for NOMA Networks"  
 - `🖥️` [Personal Website](https://github.com/derek-chui/Personal-Website): Done with Netlify and Astro frameworks.  
 - `📊` [Benchmark](https://github.com/derek-chui/Benchmark): Learning the basics of different languages.
 - `⚽` [Fantasy Premier League](https://github.com/derek-chui/FPL): Game in C++ to simulate team drafting and weekly matchups.
