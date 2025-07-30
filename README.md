@@ -6,7 +6,7 @@
 ## Projects
 - `🐺` [Football Analytics](https://github.com/derek-chui/Football-Analytics): Collection of Python projects. Data analysis, visualisation and web scraping.
 
-- `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Semantic Utility Driven User Pairing and Triplet Grouping for NOMA Networks.
+- `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Semantic utility driven NOMA networks & reinforcement learning.
 
 - `🖥️` [Personal Website](https://github.com/derek-chui/Personal-Website): Done with Netlify and Astro frameworks.
 
