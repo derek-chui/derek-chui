@@ -1,7 +1,7 @@
 # Hi, I'm Derek
 
 - Computer Science and Engineering at Santa Clara University
-- Research Assistant & Data Analyst
+- Football Analytics & Network Optimization
 
 ## Projects
 - `🐺` [Football Analytics](https://github.com/derek-chui/Football-Analytics): Collection of Python projects. Data analysis, visualisation and web scraping.
