@@ -6,7 +6,7 @@
 ## Projects
 - `🐺` [Football Analytics](https://github.com/derek-chui/Football-Analytics): Collection of projects, tools, and resources for football data analysis & visualisation.
 
-- `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Collection of projects regarding efficient user clustering in NOMA (Non Orthogonal Multiple Access) 6G Networks.
+- `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Collection of projects, efficient user clustering in NOMA (Non Orthogonal Multiple Access) 6G Networks.
 
 - `🖥️` [Personal Website](https://github.com/derek-chui/Personal-Website): Done with Netlify and Astro frameworks.
 
