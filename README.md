@@ -4,9 +4,9 @@
 - Football Analytics & Network Optimization
 
 ## Projects
-- `🐺` [Football Analytics](https://github.com/derek-chui/Football-Analytics): Collection of Python projects. Data analysis, visualisation and web scraping.
+- `🐺` [Football Analytics](https://github.com/derek-chui/Football-Analytics): Collection of projects, tools, and resources for football data analysis & visualisation.
 
-- `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Semantic utility driven NOMA networks & reinforcement learning.
+- `🌐` [Network Optimization](https://github.com/derek-chui/Network-Optimization): Collection of projects regarding efficient user clustering in NOMA (Non Orthogonal Multiple Access) 6G Networks.
 
 - `🖥️` [Personal Website](https://github.com/derek-chui/Personal-Website): Done with Netlify and Astro frameworks.
 
